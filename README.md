@@ -4,7 +4,7 @@
 I am a **Computer Science student** at **Technological University Dublin** with a passion for programming and building innovative solutions. Feel free to connect with me via the links below.
 
 ## 📬 Contact Information
-- Email: [ogunbarejoshua@gmail.com](mailto:your-email@example.com)
+- Email: [ogunbarejoshua@gmail.com](mailto:ogunbarejoshua@gmail.com)
 - LinkedIn: [Joshua Ogunbare](https://www.linkedin.com/in/joshuaogunbare/)
 
 ## 🛠️ Skills & Technologies

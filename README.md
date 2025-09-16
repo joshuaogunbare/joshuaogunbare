@@ -11,6 +11,7 @@ I am a **Computer Science student** at **Technological University Dublin** with 
 
 Here are some of the tools and technologies I've worked with:
 
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=ffffff)
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=ffffff)
